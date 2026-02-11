@@ -1,1 +1,1 @@
-# NumberGuessingGame.java
+# NumberGame.java
